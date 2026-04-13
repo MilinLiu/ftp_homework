@@ -1,0 +1,5 @@
+server
+client
+*.bin
+uploaded_*
+test.txt

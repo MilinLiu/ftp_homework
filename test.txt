@@ -1,1 +1,1 @@
-echo "Hello, Professor! This is my FTP test file. It works perfectly." > test.txt
+This is a basic test file.
